@@ -1,11 +1,11 @@
 # Info
-AGMod is a mod manager (in erly development) compatible with most games.
+AGMod is a mod manager (in early development) compatible with most games.
 
-## Planed featurs
+## Planned features
+- [ ] Game profiles
+- [ ] Add, remove, or disable mods
+- [ ] Game presets
+- [ ] Exporting presets
+- [ ] Importing presets
+- [ ] Downloading presets from URL or Git
 
-[] Game profiles
-[] Adding, removing or disableling mods
-[] Game presets
-[] Expoting preset
-[] Importing preset
-[] Downloading presets from url or git
